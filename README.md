@@ -11,6 +11,7 @@ In this lesson, we'll continue working on our Bird API by adding an `update`
 action, so that clients can use our API to update birds. To get set up, run:
 
 ```console
+
 $ bundle install
 $ rails db:migrate db:seed
 ```
